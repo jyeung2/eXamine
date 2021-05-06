@@ -1,0 +1,8 @@
+ipywidgets
+pickle
+tensorflow
+sklearn
+PIL
+numpy
+io
+base64
