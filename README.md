@@ -29,7 +29,7 @@ We would love to further improve our model in the future by obtaining more image
 
 1. To run eXamine Notebook 1.ipynb, navigate to the directory where you downloaded the notebook. It is recommended to run it on a cloud service such as Datalore, due to memory requirements.
 
-2. The dataset also needs to be downloaded from the github and uploaded to the same directory.
+2. The dataset also needs to be downloaded: https://scholar.cu.edu.eg/Dataset_BUSI.zip.
 
 3. Then you should be able to run the notebook from start to finish.
 
