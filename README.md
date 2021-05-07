@@ -1,10 +1,20 @@
 # eXamine
 
+## Running Final.ipynb
+
 1. To run Final.ipynb to use the classifier on your local device, make sure you have the libraries within requirements.txt installed. To install a library, use the command pip install _library_name_ in your command line.
 
-2. Then, navigate to the directory where you downloaded Final.ipynb. In the command line type in voila Final.ipynb and hit enter.
+2. Then, navigate to the directory where you downloaded Final.ipynb. Download the png files and the pickle file. In the command line type in voila Final.ipynb and hit enter.
 
 3. This should open up a new window in your browser and load up the UI. You can then proceed to upload the ultrasound images you like and the results should appear.
+
+## To run eXamine Notebook 1.ipynb
+
+1. To run eXamine Notebook 1.ipynb, navigate to the directory where you downloaded the notebook. It is recommended to run it on a cloud service such as Datalore, due to memory requirements.
+
+2. The dataset also needs to be downloaded from the github and uploaded to the same directory.
+
+3. Then you should be able to run the notebook from start to finish.
 
 We are eXamine, a team of 5 students attending UC Berkeley, and our goal is to provide a software that can diagnose benign and malignant breast cancer based on ultrasound images. Our team consists of Amanda Quon, Anders Chiang, Gabriel Louis-Kayen, Jack Wang, Jeremy Yeung, and Rebecca Wang. When tasked with this project, we began by exploring many different ideas from stock market prediction to recipe recommendations and more because we have diverse interests within our group. Eventually, we decided to try to make a real impact on the world, and attempt to use image classification in order to detect and diagnose breast cancer using ultrasounds.
 
