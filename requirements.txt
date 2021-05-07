@@ -1,5 +1,4 @@
 ipywidgets
-pickle
 tensorflow
 sklearn
 PIL
