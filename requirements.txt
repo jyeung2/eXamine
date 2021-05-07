@@ -1,7 +1,6 @@
 ipywidgets
 tensorflow
 sklearn
-PIL
 numpy
 io
 base64
