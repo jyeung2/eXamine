@@ -16,6 +16,8 @@
 
 3. Then you should be able to run the notebook from start to finish.
 
+## Description
+
 We are eXamine, a team of 5 students attending UC Berkeley, and our goal is to provide a software that can diagnose benign and malignant breast cancer based on ultrasound images. Our team consists of Amanda Quon, Anders Chiang, Gabriel Louis-Kayen, Jack Wang, Jeremy Yeung, and Rebecca Wang. When tasked with this project, we began by exploring many different ideas from stock market prediction to recipe recommendations and more because we have diverse interests within our group. Eventually, we decided to try to make a real impact on the world, and attempt to use image classification in order to detect and diagnose breast cancer using ultrasounds.
 
 We chose to focus on ultrasounds, as opposed to X-rays or MRIs, for many reasons. Breast ultrasounds are useful when mammograms show an indistinct mass, does not show enough detail, when women should avoid radiation, and when mammograms are not accessible. Ultrasounds help the doctors determine whether the lump is a fluid-filled cyst or a solid tumor, the location and size of the lump, and the nature of a breast abnormality. However, ultrasound screening compromises the resolution of the images, posing challenges for doctors to interpret and patients who face a misdiagnosis rate of 50%. eXamine aims to decrease the rate of misdiagnosis, as well as provide quicker diagnosis times. 
