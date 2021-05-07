@@ -2,3 +2,7 @@ ipywidgets
 tensorflow
 sklearn
 numpy
+pickle
+base64
+io
+PIL
