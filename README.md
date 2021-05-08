@@ -29,7 +29,7 @@ We would love to further improve our model in the future by obtaining more image
 
 1. To run eXamine Notebook 1.ipynb, navigate to the directory where you downloaded the notebook. It is recommended to run it on a cloud service such as Datalore, due to memory requirements.
 
-2. The dataset also needs to be downloaded: https://scholar.cu.edu.eg/Dataset_BUSI.zip.
+2. The dataset also needs to be downloaded: https://scholar.cu.edu.eg/Dataset_BUSI.zip (for the first two models in Notebook). For the Convolutional Neural Network Model (final model) in the eXamine Notebook 1.ipynb, please download the dataset from here: https://drive.google.com/file/d/1lZtbE0saHqMB_wo2nd5dF9J5o3f1MxMB/view?usp=sharing
 
 3. Then you should be able to run the notebook from start to finish.
 
